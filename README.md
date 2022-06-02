@@ -3,7 +3,7 @@ A Python Script to Generate Random characters of User choice, even User can choo
 
 # To Run the script
 Download the latest version of Python on Windows and open the script using Python.exe:
-  1) Download the Latest Version of Python on Windows using below link,
+  1) Download the Latest Version of Python on Windows using link: 
         https://www.python.org/downloads/
   2) Install and Setup the Python.exe which you Downloaded from Official Python Website
   3) Right-Click on Password generator script: "PasswdGenerator07v1.py" and "Open with... Python"
