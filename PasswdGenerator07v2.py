@@ -31,7 +31,7 @@ print(COLOR["CYAN"], """
      █▀█ ▄▀█ █▀ █▀ █░█░█ █▀█ █▀█ █▀▄   █▀▀ █▀▀ █▄░█ █▀▀ █▀█ ▄▀█ ▀█▀ █▀█ █▀█
      █▀▀ █▀█ ▄█ ▄█ ▀▄▀▄▀ █▄█ █▀▄ █▄▀   █▄█ ██▄ █░▀█ ██▄ █▀▄ █▀█ ░█░ █▄█ █▀▄""" + COLOR["YELLOW"] + " v2.0", COLOR["ENDC"])
 print(COLOR["GREY"], """
-==============================================[""" + COLOR["LIGHT_WHITE"] + "AUTHOR - " +  COLOR["BROWN"] + "Selroy.S" + COLOR["GREY"] +"]===================", COLOR["ENDC"])
+==============================================[""" + COLOR["LIGHT_WHITE"] + "AUTHOR - " +  COLOR["BROWN"] + "TD07" + COLOR["GREY"] +"]===================", COLOR["ENDC"])
 
 time.sleep(1)
 print(" ")
